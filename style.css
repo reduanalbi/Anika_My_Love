@@ -212,6 +212,8 @@ body {
         content: none;
         float: none;
         margin-top: 0px;
+         text-align: center;
+        margin: auto;
     }
     
     .image1 {
